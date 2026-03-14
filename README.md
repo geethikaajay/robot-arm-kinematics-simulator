@@ -11,7 +11,7 @@ The simulation calculates the end-effector position based on joint angles and li
 
 ## Output
 
-![Robot Arm](ROBOT ARM OUTPUT.png)
+![Robot Arm](robot_arm_output.png)
 
 ## Tools
 Python, NumPy, Matplotlib
